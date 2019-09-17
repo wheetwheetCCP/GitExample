@@ -30,9 +30,10 @@ Use Git Bash! Here are commands to help you do the following:
   `git checkout YOUR_NAME`
 
 ## Make a Change
-1. Open up
+1. Open up file explorer and navigate to your GitExample folder
+2. Open New Text Document.txt and make a change to it (or add your own file)
 
-## Checking that you made changes:
+## Checking that you made changes and saving them:
 1. Check to make sure your changes show up in Git Bash
   `git status`
 2. Add all your changes to the branch
