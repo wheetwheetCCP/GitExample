@@ -6,14 +6,14 @@ Use Git Bash! Here are commands to help you do the following:
 ## Cloning the project:
 1. In Git Bash, navigate to where you want to create a folder for this project.
 2. Make the folder
-  `mkdir Class`
+  `mkdir GitExample`
 3. Move info that folder
-  `cd Class`
-4. In Github, Click o "Clone or Download" and copy the URL [https://github.com/crystalPanter/GitClass.git](https://github.com/crystalPanter/GitClass.git)
+  `cd GitExample`
+4. In Github, Click o "Clone or Download" and copy the URL [https://github.com/wheetwheetCCP/GitExample.git](https://github.com/wheetwheetCCP/GitExample.git)
 5. In Git Bash, clone the repo
-  `git clone https://github.com/crystalPanter/GitClass.git`
+  `git clone https://github.com/wheetwheetCCP/GitExample.git`
 6. Move into the project folder
-  `cd GitClass`
+  `cd GitExample`
 7. *MAY NEED TO DO THIS*
   Connect to Github
   ```bash
@@ -23,21 +23,14 @@ Use Git Bash! Here are commands to help you do the following:
   
 ## Making your own branch:
 1. In Git Bash, navigate to your project folder
-  `cd GitClass`
+  `cd GitExample`
 2. Create a new branch with your name as the branch title
   `git branch YOUR_NAME`
 3. Make your branch your active branch
   `git checkout YOUR_NAME`
-  
-## Opening the Project in Eclipse:
-1. Open Eclipse
-2. Click File, Import
-3. Select Git, Projects from Git, Click Next
-4. Select Existing Local Repository, Click Next
-5. Click "Add..." and file your Class folder (which should have GitClass inside it)
-6. Select Class and click OK
-7. In the Search Results, click the box next to your GitClass Repository and click Finish
-8. Click Next, click Import As a General Project and Finish
+
+## Make a Change
+1. Open up
 
 ## Checking that you made changes:
 1. Check to make sure your changes show up in Git Bash
